@@ -2711,7 +2711,7 @@ cozy-konnector-libs@^3.0.13:
 
 "cozy-ui@https://github.com/GoOz/cozy-ui.git#feat/buttonAction":
   version "7.11.0"
-  resolved "https://github.com/GoOz/cozy-ui.git#ff835a3d53fced808d276edcb1d2aaf974fb852c"
+  resolved "https://github.com/GoOz/cozy-ui.git#d3224b1e297aaa97baecc0adedf214316d46db01"
   dependencies:
     babel-preset-cozy-app "^0.3.1"
     classnames "^2.2.5"
