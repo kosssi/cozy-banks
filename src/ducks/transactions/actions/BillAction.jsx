@@ -1,11 +1,10 @@
 /* global cozy */
 import React from 'react'
 import { get, some } from 'lodash'
-import { translate } from 'cozy-ui/react'
+import { translate, ButtonAction } from 'cozy-ui/react'
 import icon from 'assets/icons/actions/icon-file.svg'
 import ActionLink from './ActionLink'
 import FileOpener from '../FileOpener'
-import ButtonAction from 'cozy-ui/react/ButtonAction'
 
 const name = 'bill'
 const billCache = {}
